@@ -1,7 +1,7 @@
 # FileAppRep
 1) Steps for creating file:
-   Open 'Program.cs' file in 'FileApp.FileCreator.ConsoleApp' project
-   Modify 'fileDirectory'  and  'fileSizeInKB' parameetrs if needed
+   1) Open 'Program.cs' file in 'FileApp.FileCreator.ConsoleApp' project
+   2) Modify 'fileDirectory'  and  'fileSizeInKB' parameetrs if needed
    'FileApp.FileCreator.ConsoleApp' should be 'Set As Startup project'
    Press Ctrl+F5 for running the 'FileApp.FileCreator.ConsoleApp' application
    
